@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/depther/.dotnet/store/|arch|/|tfm|",
+      "/Users/depther/.nuget/packages"
+    ]
+  }
+}
