@@ -20,7 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74e69863-e8f2-4fc7-b724-2e4d700472ba" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Algorithm/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Algorithm/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Algorithm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Algorithm/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/BinaryTreeMaze.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/BinaryTreeMaze.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/bin/Debug/netcoreapp3.1/Algorithm.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/bin/Debug/netcoreapp3.1/Algorithm.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/bin/Debug/netcoreapp3.1/Algorithm.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/bin/Debug/netcoreapp3.1/Algorithm.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/obj/Debug/netcoreapp3.1/Algorithm.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/obj/Debug/netcoreapp3.1/Algorithm.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/obj/Debug/netcoreapp3.1/Algorithm.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/obj/Debug/netcoreapp3.1/Algorithm.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/obj/Debug/netcoreapp3.1/Algorithm.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/obj/Debug/netcoreapp3.1/Algorithm.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,16 +43,24 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Algorithm/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Algorithm/BinaryTreeMaze.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Users/depther/develop/lecture/inflearn_mmorpg1/Algorithm/Algorithm/Program.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Algorithm/Program.cs" />
         <option value="$PROJECT_DIR$/Algorithm/Board.cs" />
+        <option value="$PROJECT_DIR$/Algorithm/Constants.cs" />
+        <option value="$PROJECT_DIR$/Algorithm/BinaryTreeMaze.cs" />
+        <option value="$PROJECT_DIR$/Algorithm/Program.cs" />
+        <option value="$PROJECT_DIR$/Algorithm/SideWinder.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1jGmqCyZd047BVrVbJFueYHT02M" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -63,7 +79,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Font" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -96,6 +112,7 @@
       <updated>1603438994925</updated>
       <workItem from="1603439001641" duration="6692000" />
       <workItem from="1603462661703" duration="438000" />
+      <workItem from="1603500170956" duration="2133000" />
     </task>
     <servers />
   </component>
@@ -131,6 +148,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
@@ -148,24 +166,28 @@
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state width="480" height="466" key="DebuggerActiveHint/1920.23.1680.1027/0.1103.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1603461527936" />
-    <state width="1878" height="385" key="GridCell.Tab.0.bottom" timestamp="1603462656762">
+    <state width="1332" height="748" key="GridCell.Tab.0.bottom" timestamp="1603502130763">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
+    <state width="1332" height="748" key="GridCell.Tab.0.bottom/0.1103.1920.1057/1920.23.1680.1027/0.23.1920.1057@0.23.1920.1057" timestamp="1603502130763" />
     <state width="894" height="297" key="GridCell.Tab.0.bottom/0.1103.1920.1057/1920.23.1680.1027/0.23.1920.1057@1920.23.1680.1027" timestamp="1603443641281" />
     <state width="1878" height="385" key="GridCell.Tab.0.bottom/1920.23.1680.1027/0.1103.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1603462656762" />
-    <state width="1878" height="385" key="GridCell.Tab.0.center" timestamp="1603462656760">
+    <state width="1332" height="748" key="GridCell.Tab.0.center" timestamp="1603502130762">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
+    <state width="1332" height="748" key="GridCell.Tab.0.center/0.1103.1920.1057/1920.23.1680.1027/0.23.1920.1057@0.23.1920.1057" timestamp="1603502130762" />
     <state width="894" height="297" key="GridCell.Tab.0.center/0.1103.1920.1057/1920.23.1680.1027/0.23.1920.1057@1920.23.1680.1027" timestamp="1603443641280" />
     <state width="1878" height="385" key="GridCell.Tab.0.center/1920.23.1680.1027/0.1103.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1603462656760" />
-    <state width="1878" height="385" key="GridCell.Tab.0.left" timestamp="1603462656759">
+    <state width="1332" height="748" key="GridCell.Tab.0.left" timestamp="1603502130761">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
+    <state width="1332" height="748" key="GridCell.Tab.0.left/0.1103.1920.1057/1920.23.1680.1027/0.23.1920.1057@0.23.1920.1057" timestamp="1603502130761" />
     <state width="894" height="297" key="GridCell.Tab.0.left/0.1103.1920.1057/1920.23.1680.1027/0.23.1920.1057@1920.23.1680.1027" timestamp="1603443641279" />
     <state width="1878" height="385" key="GridCell.Tab.0.left/1920.23.1680.1027/0.1103.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1603462656759" />
-    <state width="1878" height="385" key="GridCell.Tab.0.right" timestamp="1603462656761">
+    <state width="1332" height="748" key="GridCell.Tab.0.right" timestamp="1603502130763">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
+    <state width="1332" height="748" key="GridCell.Tab.0.right/0.1103.1920.1057/1920.23.1680.1027/0.23.1920.1057@0.23.1920.1057" timestamp="1603502130763" />
     <state width="894" height="297" key="GridCell.Tab.0.right/0.1103.1920.1057/1920.23.1680.1027/0.23.1920.1057@1920.23.1680.1027" timestamp="1603443641281" />
     <state width="1878" height="385" key="GridCell.Tab.0.right/1920.23.1680.1027/0.1103.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1603462656761" />
     <state width="1878" height="385" key="GridCell.Tab.1.bottom" timestamp="1603462656766">
@@ -220,13 +242,15 @@
       <screen x="1920" y="23" width="1680" height="1027" />
     </state>
     <state x="2572" y="259" key="RiderGenerateDialog/0.1103.1920.1057/1920.23.1680.1027/0.23.1920.1057@1920.23.1680.1027" timestamp="1603442178154" />
-    <state x="469" y="190" key="SettingsEditor" timestamp="1603462654489">
-      <screen x="0" y="23" width="1920" height="1057" />
+    <state x="508" y="1318" key="SettingsEditor" timestamp="1603502390400">
+      <screen x="0" y="1103" width="1920" height="1057" />
     </state>
+    <state x="508" y="1318" key="SettingsEditor/0.1103.1920.1057/1920.23.1680.1027/0.23.1920.1057@0.23.1920.1057" timestamp="1603502390400" />
     <state x="469" y="190" key="SettingsEditor/1920.23.1680.1027/0.1103.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1603462654489" />
-    <state x="577" y="257" width="670" height="676" key="search.everywhere.popup" timestamp="1603462480865">
+    <state x="577" y="257" width="670" height="676" key="search.everywhere.popup" timestamp="1603500698009">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
+    <state x="577" y="257" width="670" height="676" key="search.everywhere.popup/0.1103.1920.1057/1920.23.1680.1027/0.23.1920.1057@0.23.1920.1057" timestamp="1603500698009" />
     <state x="2425" y="250" key="search.everywhere.popup/0.1103.1920.1057/1920.23.1680.1027/0.23.1920.1057@1920.23.1680.1027" timestamp="1603441896334" />
     <state x="577" y="257" width="670" height="676" key="search.everywhere.popup/1920.23.1680.1027/0.1103.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1603462480865" />
   </component>
@@ -234,27 +258,14 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/Algorithm/Board.cs</url>
-          <line>57</line>
-          <properties documentPath="$PROJECT_DIR$/Algorithm/Board.cs" initialLine="57">
-            <startOffsets>
-              <option value="1763" />
-            </startOffsets>
-            <endOffsets>
-              <option value="1794" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/Algorithm/Board.cs</url>
+          <url>file://$PROJECT_DIR$/Algorithm/BinaryTreeMaze.cs</url>
           <line>41</line>
           <properties documentPath="$PROJECT_DIR$/Algorithm/Board.cs" initialLine="41">
             <startOffsets>
-              <option value="1186" />
+              <option value="1197" />
             </startOffsets>
             <endOffsets>
-              <option value="1204" />
+              <option value="1215" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="10" />
