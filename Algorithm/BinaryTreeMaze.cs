@@ -1,7 +1,7 @@
 using System;
 
 namespace Algorithm {
-    public class Board {
+    public class BinaryTreeMaze {
         private const char CIRCLE_LETTER = '\u25cf';
 
         private const int SIZE = 25;
@@ -12,7 +12,7 @@ namespace Algorithm {
             wall = 1
         }
 
-        public Board() {
+        public BinaryTreeMaze() {
             generateBinaryTreeMaze();
         }
 

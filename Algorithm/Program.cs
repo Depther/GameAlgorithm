@@ -4,8 +4,8 @@ namespace Algorithm {
     class Program {
         
         static void Main(string[] args) {
-            Board board = new Board();
-            board.render();
+            BinaryTreeMaze binaryTreeMaze = new BinaryTreeMaze();
+            binaryTreeMaze.render();
         }
     }
 }
